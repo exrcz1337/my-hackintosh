@@ -9,3 +9,5 @@
 - **Ethernet:** Intel I219-V (`IntelMausi 1.0.8`)
 - **macOS version:** Sequoia 15.8
 - **OpenCore version:** 1.0.8
+
+<img src="https://github.com/exrcz1337/my-hackintosh/blob/main/photo_2026-10-11_20-19-58.jpg"  style="zoom:50%;" />
